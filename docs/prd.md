@@ -88,7 +88,6 @@ Design principle:
 
   * Create/manage procurement requests for their MDA.
   * Upload tender documents.
-  * Track vendor participation & award contracts.
   * Generate procurement reports.
 * **Scope**
 
