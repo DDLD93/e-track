@@ -47,12 +47,6 @@ app/
       tenders/[id]/page.tsx # Tender detail + manage bids
       awards/page.tsx       # Awards listing
 
-  vendor/
-    tenders/
-      page.tsx              # Available tenders
-      [id]/bid/page.tsx     # Submit bid form
-    awards/page.tsx         # View awarded contracts
-
   auditor/
     audit/
       dashboard/page.tsx    # Cross-MDA analytics
